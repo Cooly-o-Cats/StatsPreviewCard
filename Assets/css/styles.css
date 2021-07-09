@@ -51,7 +51,7 @@ h1{
     flex-direction: column;
 }
 .image{
-    background-image: url(https://github.com/Cooly-o-Cats/StatsPreviewCard/blob/main/Stats%20Preview%20Card/Assets/img/Assets/image-header-desktop.jpg?raw=true);
+    background-image: url(https://github.com/Cooly-o-Cats/StatsPreviewCard/blob/main/Assets/img/Resources/image-header-desktop.jpg?raw=true);
     width: 100%;
     height: 100%;
 }
@@ -147,7 +147,7 @@ p.stat{
     order: 1;
 }
 .image{
-    background-image: url(https://github.com/Cooly-o-Cats/StatsPreviewCard/blob/main/Stats%20Preview%20Card/Assets/img/Assets/image-header-mobile.jpg?raw=true);
+    background-image: url(https://github.com/Cooly-o-Cats/StatsPreviewCard/blob/main/Assets/img/Resources/image-header-mobile.jpg?raw=true);
     height: 100%;
     width: 100%;
     object-fit: cover;
